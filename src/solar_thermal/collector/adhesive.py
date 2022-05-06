@@ -1,6 +1,6 @@
 #!/usr/bin/python3.7
 ########################################################################################
-# pvt_collector/adhesive_.py - Represents adhesive layer within a collector.
+# collector/adhesive_.py - Represents adhesive layer within a collector.               #
 #                                                                                      #
 # Author: Ben Winchester                                                               #
 # Copyright: Ben Winchester, 2022                                                      #
