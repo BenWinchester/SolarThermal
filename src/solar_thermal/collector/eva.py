@@ -1,6 +1,6 @@
 #!/usr/bin/python3.7
 ########################################################################################
-# collector/eva.py - Represents eva layer within a collector.                          #
+# collector/eva.py - Represents the eva layer within a collector.                      #
 #                                                                                      #
 # Author: Ben Winchester                                                               #
 # Copyright: Ben Winchester, 2022                                                      #

@@ -1,6 +1,6 @@
 #!/usr/bin/python3.7
 ########################################################################################
-# collector/bond.py - Represents bond layer within a collector.                        #
+# collector/bond.py - Represents the bond layer within a collector.                    #
 #                                                                                      #
 # Author: Ben Winchester                                                               #
 # Copyright: Ben Winchester, 2022                                                      #
