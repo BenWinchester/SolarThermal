@@ -25,7 +25,7 @@ __all__ = ("Bond",)
 @dataclass
 class Bond(MicroLayer):
     """
-    Represents an Bond layer within the panel.
+    Represents a bond layer within the collector.
 
     .. attribute:: width
         The width of the bond, measured in meters.

@@ -26,6 +26,6 @@ __all__ = ("Adhesive",)
 
 class Adhesive(MicroLayer):
     """
-    Represents an Adhesive layer within the panel.
+    Represents an adhesive layer within the collector.
 
     """
