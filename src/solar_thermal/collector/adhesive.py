@@ -1,6 +1,6 @@
 #!/usr/bin/python3.7
 ########################################################################################
-# collector/adhesive_.py - Represents adhesive layer within a collector.               #
+# collector/adhesive.py - Represents adhesive layer within a collector.               #
 #                                                                                      #
 # Author: Ben Winchester                                                               #
 # Copyright: Ben Winchester, 2022                                                      #
