@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# HPC log files
+*e[0-9]*
+*o[0-9]*
+
+# VSCode files
+.vscode
+
+# Misc. files
+*.zip
